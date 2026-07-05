@@ -1,0 +1,7 @@
+{
+  "name": "scorehub/app",
+  "description": "ScoreHub - Score Management System",
+  "require": {
+    "php": "^8.2"
+  }
+}
